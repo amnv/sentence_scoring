@@ -1,0 +1,140 @@
+<document id="stem_cell">
+	<sentence>A variety of somatic <cell_type>cells</cell_type> canbe reprogrammed to induced pluripotent <cell_type>stem</cell_type> cells( iPSCs ) , but the small number of CD34+ hematopoietic stem cells ( HSCs ) present in non-mobilized peripheral blood ( PB ) would be a convenient and desirable starting target . </sentence>
+	<sentence>Resultant iPSC clones expressed pluripotent <cell_type>cell</cell_type> markers, had genomic methylation pattern closely matching embryonic <cell_type>stem</cell_type> cells, and generated teratomas containing tissues of all three germ lineages in immunodeficient mice . </sentence>
+	<sentence>Furthermore , we conclude that these iPSC are derived from <cell_type>the</cell_type> non-mobilizedCD34+ HSCs enriched from PB rather than from any lymphocyte or monocyte contaminants because they lacked somatic rearrangements typical of T or B lymphocytes , and because we demonstrated that purified CD14+ monocytes do not <cell_type>yield</cell_type> iPSCcolonies under these reprogramming conditions . </sentence>
+	<sentence>Background : Germ Cell Cancers ( GCC ) , originating from Primordial Germ Cells /gonocytes , are the most common cancer in young men , subdivided in seminoma ( SE ) and non-seminoma ( NS , <cell_type>stem cell</cell_type> component: embryonal carcinoma ( EC ) ) . </sentence>
+	<sentence>Bisulfite converted genomic DNA lysates from human pluripotent <cell_type>stem</cell_type> cell-derivedhematopoietic precursor <cell_type>cells</cell_type> (CD34+CD38-CD43+ lineage marker- ) were hybridized to Illumina HumanMethylation450 BeadChip . </sentence>
+	<sentence>Bisulfite converted genomic DNA lysates from induced pluripotent <cell_type>stem cell</cell_type> andembryonic stem cell lines were hybridized to Illumina HumanMethylation450 BeadChip . </sentence>
+	<sentence>CD34+ <cell_type>cells</cell_type> wereisolated from fresh umbilical cord blood after written consent according to the guidelines specifically approved by the Ethic Committee of RWTH Aachen University ( Permit Number : EK187/08 ) using the CD34 Micro Bead Kit on a MiniMACS <cell_type>system</cell_type> (Miltenyi Biotec GmbH , Bergisch-Gladbach , Germany ) . </sentence>
+	<sentence>Cells were cultured in StemSpan serum free expansion medium ( Stem Cell Technologies , Grenoble , France ) supplemented with 10 µg/mL heparin ( ratiopharm , GmbH , Ulm , Germany ) , 20 ng/mL thrombopoietin ( TPO ; PeproTech GmbH , Hamburg , Germany ) , 10 ng/mL <cell_type>stem cell</cell_type> factor( SCF ; PeproTech ) , 10 ng/mL fibroblast growth factor 1 ( FGF1 ; PeproTech ) . </sentence>
+	<sentence><cell_type>cell</cell_type> line: Nuclear-transfer embryonic <cell_type>stem</cell_type> cellline derived from neonatal BJ fibroblasts , clone 5. cell line : Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts , clone 6. cell line : Nuclear-transfer embryonic stem cell line derived from neonatal BJ fibroblasts , clone 8. cell line : RNA-reprogrammed induced pluripotent stem cell line derived from neonatal BJ fibroblasts , clone M. cell line : RNA-reprogrammed induced pluripotent stem cell line derived from neonatal BJ fibroblasts , clone O. cell line : RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone A. cell line : RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone B. cell line : RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone C. cell line : RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone D. cell line : RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone E. cell line : RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone F. Cells were grown as monolayers in NS-A basal media ( Stem Cell Technologies ) supplemented with N2 , B27 , 75 μg/mL BSA ( Sigma ) , 10 ng/mL rhEGF ( Sigma ) , 10 ng/mL bFGF ( Sigma ) and 2 μg/mL heparin ( Sigma ) . </sentence>
+	<sentence><cell_type>cell</cell_type> type: embryonic <cell_type>stem</cell_type> cell, differentiated ; NeuralProgenitors.day22 . </sentence>
+	<sentence><cell_type>cell</cell_type> type: embryonic <cell_type>stem</cell_type> cell, differentiated ; OligodendrocyteProgenitors.day42 . </sentence>
+	<sentence><cell_type>cell</cell_type> type: embryonic <cell_type>stem</cell_type> cell, differentiated ; spontaneous.day3 . </sentence>
+	<sentence><cell_type>cell</cell_type> type: embryonic <cell_type>stem</cell_type> cell, undifferentiated . </sentence>
+	<sentence><cell_type>cell</cell_type> type: human embryonic <cell_type>stem</cell_type> cells. </sentence>
+	<sentence><cell_type>cell</cell_type> type: mesenchymal <cell_type>stem</cell_type> cells( MSCs ) . </sentence>
+	<sentence><cell_type>cell</cell_type> type: mesenchymal <cell_type>stem</cell_type> cells( MSCs ) . </sentence>
+	<sentence>In order to gain better insight into regulatory processes that underlie variation in complex phenotypes , we must have access to faithful model <cell_type>systems</cell_type> fora wide range of tissues and <cell_type>cell</cell_type> types. </sentence>
+	<sentence>To facilitate this , we have generated a panel of 7 fully characterized chimpanzee ( Pan troglodytes ) induced pluripotent <cell_type>stem cell</cell_type> (iPSC ) lines derived from fibroblasts of healthy donors . </sentence>
+	<sentence>To begin demonstrating <cell_type>the</cell_type> utilityof comparative iPSC panels , we collected RNA-seq data and methylation profiles from the chimpanzee iPSCs and their corresponding fibroblast precursors , as well as from 7 human iPSCs and their precursors , which were of multiple <cell_type>cell</cell_type> typeand population origins . </sentence>
+	<sentence>Our panel <cell_type>will</cell_type> helprealise <cell_type>the</cell_type> potentialof iPSCs , and in combination with genomic technologies , transform studies of comparative evolution in primates . </sentence>
+	<sentence>differentiated angioblast ( CD34+ ) human embryonic <cell_type>stem cell</cell_type> .</sentence>
+	<sentence>differentiated endothelial human embryonic <cell_type>stem cell</cell_type> .</sentence>
+	<sentence>Differentiation of human limbal-derived induced pluripotent <cell_type>stem cells</cell_type> intolimbal-like epithelium . </sentence>
+	<sentence>DNA methylation profiles of human myoblasts ( day1 , day3 , day8 , day15 ) , human mesenchymal <cell_type>stem cells</cell_type> (1 sample ) and human skeletal muscle tissues ( 2 samples ) were obtained using Infinium HumanMethylation450 BeadChips ( Illumina ) . </sentence>
+	<sentence>donor <cell_type>cell</cell_type> type: embryonic <cell_type>stem</cell_type> cell. </sentence>
+	<sentence>Proceedings of <cell_type>the</cell_type> NationalAcademy of <cell_type>Sciences</cell_type> ofthe United States of America 105 , 2883-2888 , doi:10.1073/pnas.0711983105 ( 2008 ) ) . </sentence>
+	<sentence>Genome-wide DNA methylation profiling by Illumina Infinium HumanMethylation 450K Beadchip was performed on a total of 21 human <cell_type>cell</cell_type> lines, including : an isogenic set of 3 nuclear-transfer embryonic <cell_type>stem</cell_type> cell( NT-ESC ) lines , 2 RNA-reprogrammed induced pluripotent stem cell ( iPSC ) lines and their parental neonatal fibroblast cell line ; an isogenic set of 1 NT-ESC line , 6 iPSC lines and their parental adult fibroblast cell line ( derived from a type 1 diabetic subject ) ; as well as 7 control embryonic stem cell ( ESC ) lines . </sentence>
+	<sentence>Genome wide DNA methylation profiling of Neurons derived from human induced pluripotent <cell_type>stem cells</cell_type> (iCell Neurons ) at different time points were abtained by the Infinium HumanMethylation450 BeadChip ( 450K array ) Kit ( WG-314-1002 ) , which interrogates > 480,000 CpG sites in the human genome.In total , 36 samples were profiled using the 450K arrays . </sentence>
+	<sentence>Global DNA CpG methylation profiling of human embryonic <cell_type>stem cells</cell_type> ,fibroblast iPSC , and low passage stromal primed myeloid iPSC before and after conversion to the naïve state . </sentence>
+	<sentence>The iPSCs exhibited a hypermethylation status similarly to ESCs but distinct differences from <cell_type>the</cell_type> parent<cell_type>cells</cell_type> .</sentence>
+	<sentence>Genes of common methylation pattern between iPSCs and ESCs were regarded as critical factors for <cell_type>stemness</cell_type> ,while differences existing between iPSCs and ESCs implied that iPSCs partly retained the parental characteristics and gained de novo methylation aberrances during <cell_type>cell</cell_type> reprogramming. </sentence>
+	<sentence>No significant variant was identified between <cell_type>virally-</cell_type> andepisomal- <cell_type>systems</cell_type> .</sentence>
+	<sentence>human embryonic <cell_type>stem cells</cell_type> .</sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,10-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,10-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,12-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,12-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,14-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,14-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,22-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,22-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,28-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,28-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,29-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,29-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,3-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,3-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,63-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,63-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,6-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,6-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,80-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,80-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,86-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,86-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,89-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,89-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,92-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cell</cell_type> ,92-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> .</sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,10-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,10-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,10-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,10-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,12-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,12-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,18-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,18-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,19-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,19-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,22-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,22-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,2-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,2-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,3-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,3-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,61-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,61-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,6-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,6-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,70-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,70-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,77-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,77-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,79-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,79-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,87-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,87-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,87-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,87-year-old male . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,91-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,91-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,9-year-old female . </sentence>
+	<sentence>human mesenchymal <cell_type>stem cells</cell_type> ,9-year-old female . </sentence>
+	<sentence>Human pluripotent <cell_type>stem cells</cell_type> canbe derived from somatic cells by forced expression of defined factors , and more recently by nuclear-transfer into human oocytes , revitalizing a debate on whether one reprogramming approach might be advantageous over the other . </sentence>
+	<sentence>Here we compared the genetic and epigenetic stability of human nuclear-transfer embryonic <cell_type>stem cell</cell_type> (NT-ESC ) lines and isogenic induced pluripotent stem cell ( iPSC ) lines , derived from the same somatic cell cultures of fetal , neonatal and adult origin . </sentence>
+	<sentence>The occurrence of these genetic and epigenetic defects in both NT-ESCs and iPSCs suggests that they are inherent to reprogramming , <cell_type>regardless</cell_type> of<cell_type>the</cell_type> underlyingtechnique . </sentence>
+	<sentence>To determine whether accumulation of such aberrations is intrinsic to somatic <cell_type>cell</cell_type> reprogramming, or secondary to <cell_type>the</cell_type> reprogrammingmethod , we employed an alternative approach by somatic cell nuclear transfer ( SCNT ) . </sentence>
+	<sentence><cell_type>We</cell_type> discoveredthat unlike iPSCs , NT-ESCs have a low burden of de novo copy number variations ( CNVs ) , reflecting superior maintenance of genetic <cell_type>stability</cell_type> .</sentence>
+	<sentence>Moreover , DNA methylation and transcriptome profiles of NT-ESCs corresponded <cell_type>closely to</cell_type> thoseof IVF-ESCs . </sentence>
+	<sentence>In contrast , iPSCs harbored methylation abnormalities <cell_type>including</cell_type> residualCpG methylation typical of parental fibroblasts , <cell_type>suggesting</cell_type> incompletereprogramming . </sentence>
+	<sentence>We conclude that human somatic cells can be faithfully reprogrammed to pluripotency by SCNT with <cell_type>the</cell_type> potentialto satisfy the clinical requirements for <cell_type>cell</cell_type> replacementtherapies . </sentence>
+	<sentence>However , the chromatin marks associated with changes in DNA methylation in adult <cell_type>stem cells</cell_type> duringlifetime are still largely unknown . </sentence>
+	<sentence>DNA methylation profiling of genetically identical individuals showed that both <cell_type>the</cell_type> tendencyof DNA methylation changes and scedasticity depended on non-genetic as <cell_type>well</cell_type> asgenetic factors . </sentence>
+	<sentence>Our results indicate that <cell_type>the</cell_type> dynamicsof DNA methylation during aging depend on a complex mixture of factors that include the DNA sequence , <cell_type>cell</cell_type> typeand chromatin context involved , and that , depending on the locus , the changes can be modulated by genetic and/or external factors . </sentence>
+	<sentence>E-PZ-iPS-like <cell_type>cells</cell_type> demonstratedpluripotency by differentiating into ectodermal , mesodermal , and endodermal cells in vitro , although lack of <cell_type>teratoma</cell_type> formationin vivo and incomplete demethylation of pluripotency genes suggested only partial reprogramming . </sentence>
+	<sentence>Androgen induced expression of androgen receptor ( AR ) , and co-culture with rat urogenital sinus further induced expression of prostate-specific antigen , a hallmark of secretory <cell_type>cells</cell_type> ,suggesting that E-PZ-iPS-like cells have <cell_type>the</cell_type> capacityto differentiate into prostatic basal and secretory epithelial cells . </sentence>
+	<sentence>Our results <cell_type>suggest</cell_type> thatiPS-like <cell_type>cells</cell_type> canbe derived from prostatic epithelial cells . </sentence>
+	<sentence>Non-CG methylation is an unexplored epigenetic hallmark of pluripotent <cell_type>stem cells</cell_type> .</sentence>
+	<sentence>Translation into a simplified assay of only 9 non-CG sites maintains predictive power in the discovery cohort ( Δβ = 23 % , p < 9.1x10-6 ) and correctly identifies endodermal differentiation capacity in nince out of ten pluripotent <cell_type>stem cell</cell_type> linesin an independent replication cohort consisting of hiPSCs reprogrammed from different cell types and different delivery systems , as well as human embryonic stem cell ( hESC ) lines . </sentence>
+	<sentence>This finding infers non-CG <cell_type>methylation</cell_type> atthese <cell_type>sites</cell_type> asa biomarker when assessing endodermal differentiation capacity as a readout . </sentence>
+	<sentence>normal female embryonic <cell_type>stem cell</cell_type> .</sentence>
+	<sentence>Novel culture conditions facilitating the induction of naïve pluripotency in human embryonic <cell_type>stem cells</cell_type> .</sentence>
+	<sentence>Furthermore , overexpression of the <cell_type>catalytic</cell_type> subunitof the human telomerase ( TERT ) or conditional immortalization with a doxycycline-inducible <cell_type>system</cell_type> (TERT and SV40 TAg ) result in telomere extension but do not influence SA-DNAm . </sentence>
+	<sentence>Our results indicate that replicative senescence is associated with an epigenetically controlled process which stalls <cell_type>cells</cell_type> ina particular differentiated <cell_type>state</cell_type> ,whereas irradiation-induced senescence and immortalization are not causally related to this process . </sentence>
+	<sentence>Briefly , undifferentiated human ES/iPS <cell_type>cells</cell_type> werefreshly split on to matrigel-coated plates , making sure <cell_type>the</cell_type> sub-colonieswere of small size ( ~300-500 cells /colony ) . </sentence>
+	<sentence>Cells were differentiated using the chemically defined mesodermal induction media ( MIM ) ( DMEM : F12 , 15mg/ml <cell_type>stem cell</cell_type> gradeBSA ( MP biomedicals ) , 17.5µg/ml Human Insulin , ( SAFC bioscience ) , 275 µg/ml Human holo transferrin ( Sigma Aldrich ) , 20ng/ml bFGF ( Hymanzyme ) , 50ng/ml Human VEGF-165 aa ( Humanzyme ) , 25ng/ml human BMP4 ( Stemgent ) , 450µM monothioglycerol ( Sigma Aldrich ) , 2.25mM each L-Glutamine and Nonn-essential amino acids ( Invitrogen ) . </sentence>
+	<sentence>RNA-reprogrammed induced pluripotent <cell_type>stem cell</cell_type> linederived from neonatal BJ fibroblasts , clone M. RNA-reprogrammed induced pluripotent stem cell line derived from neonatal BJ fibroblasts , clone O. RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone A. RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone B. RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone C. RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone D. RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone E. RNA-reprogrammed induced pluripotent stem cell line from adult fibroblasts of a type 1 diabetic subject ( ID 1018 ) , clone F. see L. Vallier et al. , Stem Cells ( 2009 ) for details . </sentence>
+	<sentence>Sequencing of bisulfite converted DNA and array based analysis of normal tissues , human embryonic <cell_type>stem cells</cell_type> ,androgenetic hydatidiform moles and leukocytes from reciprocal genome-wide uniparental disomies . </sentence>
+	<sentence>DNA methylation ( DNAm ) profiles of iPSCs maintained <cell_type>some</cell_type> donor-specific<cell_type>characteristics</cell_type> ,whereas tissue-specific , senescence-associated , and age-related DNAm patterns were erased during reprogramming . </sentence>
+	<sentence><cell_type>Stem Cell</cell_type> Biologyand Cellular Engineering . </sentence>
+	<sentence>T <cell_type>cell</cell_type> receptor( TCR ) αβ+ CD4- CD8- double negative T cells represent a rare T cell subset implicated in <cell_type>the</cell_type> pathogenesisof several autoimmune diseases . </sentence>
+	<sentence>Curiously , we show consistent increase in non-CG methylation in double negative T <cell_type>cells</cell_type> ,a finding suggestive of pluripotency and previously only known to occur in embryonic <cell_type>stem</cell_type> cellsand developing brain tissue . </sentence>
+	<sentence>Network analyses of genes hypomethylated in double negative compared to CD4+ and CD8+ T cells indicate a <cell_type>strong</cell_type> relationshipbetween double negative T cells and functions related to cell-cell interaction , <cell_type>cell</cell_type> adhesion, and cell activation pathways . </sentence>
+	<sentence>The current study identified a link between DNA methylome of B-cell acute lymphoblastic leukemias ( B-ALLs ) and embryonic <cell_type>stem cell</cell_type> (ESC ) bivalency , through which tumor cells can mimic the pluripotency of ESCs . </sentence>
+	<sentence>In this study , we compared hematopoietic differentiation capacity of 35 human iPSC lines derived from four different tissues and four embryonic <cell_type>stem cell</cell_type> lines. </sentence>
+	<sentence>The analysis revealed that hematopoietic commitment capacity ( PSCs to hematopoietic precursors ) is <cell_type>correlated</cell_type> with<cell_type>the</cell_type> expressionlevel of the IGF2 gene independent of the iPSC origins . </sentence>
+	<sentence>Tissue- and Aging-specific DNA-Methylation Patterns are erased in Mesenchymal Stromal <cell_type>Cells</cell_type> derivedfrom Induced Pluripotent <cell_type>Stem</cell_type> Cells. </sentence>
+	<sentence>tissue : differentiated angioblast ( CD34+ ) human embryonic <cell_type>stem cell</cell_type> .</sentence>
+	<sentence>tissue : differentiated endothelial human embryonic <cell_type>stem cell</cell_type> .</sentence>
+	<sentence>tissue : human embryonic <cell_type>stem cells</cell_type> .</sentence>
+	<sentence>We differeniated human pluripotent <cell_type>stem cell</cell_type> linesby using StemPro-34 ( Invitrogen ) based media for 15 days.Cytokines or a chemical compound were utilized as follows during differentiation : on day 0-1 , human BMP4 ( 10 ng/ml ) and Rock-inhibitor ( Y27632 ) ( 10 μM ) ; on day 1-4 , human BMP4 ( 10 ng/ml ) and human basic fibroblast growth factor ( bFGF ; 5 ng/ml ) ; on day 4-8 , human vascular endothelial growth factor ( hVEGF ; 10 ng/mL ) , hbFGF ( 1 ng/mL ) , human interleukin-6 ( hIL-6 ; 10 ng/mL ) , hIL-3 ( 40 ng/mL ) , hIL-11 ( 5 ng/mL ) , human stem cell factor ( hSCF ; 100 ng/mL ) , and human Fms-like tyrosine kinase 3 ligand ( hFlt3L ; 100 ng/mL ) ; and on Day 8-15 , hVEGF ( 10 ng/mL ) , hIL-6 ( 10 ng/mL ) , hIL-3 ( 40 ng/mL ) , hIL-11 ( 5 ng/mL ) , hSCF ( 100 ng/mL ) , hFlt3L ( 100 ng/mL ) , human erythropoietin ( hEPO ; 4U/ml ) , and human thrombopoietin ( 50 ng/mL ) . </sentence>
+	<sentence><cell_type>We</cell_type> firstdemonstrate that non-genetically determined inter-individual differentially methylated regions ( iiDMRs ) can be temporally <cell_type>stable</cell_type> forat least two years . </sentence>
+	<sentence>Then , we show that iiDMRS are associated with concomitant changes in chromatin state as measured by inter-individual differences in <cell_type>the levels</cell_type> ofthe histone variant H2A.Z . </sentence>
+	<sentence>However , <cell_type>the correlation</cell_type> ofpromoter iiDMRs with gene expression is negligible and this correlation is not improved even by integrating H2A.Z information . </sentence>
+	<sentence>We find that most promoter epialleles , whether genetically or non-genetically determined , are associated with low levels of transcriptional activity , depleted for house keeping genes , and either depleted for H3K4me3/enriched for H3K27me3 , or lacking both these marks in human embryonic <cell_type>stem cells</cell_type> .</sentence>
+	<sentence>We have assessed the global DNA methylation ( Illumina Infinium HD 450K DNA methylationBeadChips ) and transcriptional ( Illumina HT12v4 Gene Expression Bead Array ) profiles of transdifferentiated endothelial cells and smooth muscle , human embryonic <cell_type>stem cell</cell_type> (hESC ) and human induced pluripotent stem cell ( hiPSC ) differentiated CD34+ angioblasts , hESCs , hiPSC , primary smooth muscle and primary human umbilical vein endothelial cells using microarrays . </sentence>
+	<sentence>We sought to test <cell_type>the</cell_type> hypothesisthat a single transgene-free iPSC <cell_type>clone</cell_type> fromeach donor could be used to detect disease-specific differences between the normal cohort and the PiZZ cohort , anticipating that this difference would emerge only at a developmental stage in which the mutant AAT gene is expressed . </sentence>
+</document>
